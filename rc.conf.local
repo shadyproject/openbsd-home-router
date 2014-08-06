@@ -1,0 +1,5 @@
+ntpd_flags=		# enabled during install
+dhcpd_flags="vether0"
+named_flags=""
+sndiod_flags=NO
+apmd_flags="-C"
