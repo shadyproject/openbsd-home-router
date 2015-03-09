@@ -19,4 +19,4 @@ This configuration is more or less hardware agnostic.  The reference hardware I 
 * [Soekris Net-6501-50 Board](http://soekris.com/products/net6501-1/net6501-50-board.html)
 * [Transcend 4GB SLC mSATA SSD](http://soekris.com/ssd-msata-4gb.html)
 * [1 Slot Standard Case](http://soekris.com/net6501-50-board-case.html)
-* [OpenBSD Stickers](http://www.openbsd.org/faq/faq3.html]
+* [OpenBSD Stickers](http://www.openbsd.org/faq/faq3.html)
