@@ -20,3 +20,7 @@ This configuration is more or less hardware agnostic.  The reference hardware I 
 * [Transcend 4GB SLC mSATA SSD](http://soekris.com/ssd-msata-4gb.html)
 * [1 Slot Standard Case](http://soekris.com/net6501-50-board-case.html)
 * [OpenBSD Stickers](http://www.openbsd.org/faq/faq3.html)
+
+
+# Disclaimer
+I only barely know what I'm doing.  If you need this to, say, protect state secrets or some such thing you may want to have somebody who actually know what they're doing take a look at this.  Satisfaction not guaranteed.  Keep hands and arms inside the ride at all times.  Do not taunt happy fun ball.  
