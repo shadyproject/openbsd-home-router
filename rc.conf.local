@@ -1,4 +1,4 @@
-ntpd_flags=		# enabled during install
+ntpd_flags="-s"		# enabled during install
 dhcpd_flags="vether0"
 named_flags=""
 sndiod_flags=NO
